@@ -1,0 +1,10 @@
+body{
+    margin:0;
+    background-color: rgb(32, 218, 203);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    padding:30px;
+}
+img{
+    border-radius:45%
+}
+
